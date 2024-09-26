@@ -2,7 +2,7 @@ import java.text.DecimalFormat;
 import java.util.Random;
 import javax.swing.JOptionPane;
 
-public class App {
+public class ContaTerminal {
     public static void main(String[] args) {
         // Exibe uma caixa de diálogo de confirmação com as opções Sim e Não
         int resposta = JOptionPane.showConfirmDialog(null, "Vamos criar sua conta bancária?", "Confirmação", JOptionPane.YES_NO_OPTION);
